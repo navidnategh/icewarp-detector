@@ -170,7 +170,3 @@ Version information obtained from HTTP headers may be incomplete, modified, or m
 Use this tool only against systems you own or have explicit authorization to assess.
 
 The author is not responsible for unauthorized use or damage resulting from misuse of this software.
-
-## License
-
-This project is intended to be released under the MIT License. See the `LICENSE` file for details.

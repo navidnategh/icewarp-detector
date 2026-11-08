@@ -331,7 +331,7 @@ def scan_initial_url(session, initial_url, deadline, verify_tls):
                 verify=verify_tls,
                 allow_redirects=False,
                 headers={
-                    "User-Agent": "IceWarp-Detector/4.3",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36",
                     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
                 },
             )

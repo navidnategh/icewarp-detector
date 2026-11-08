@@ -26,8 +26,8 @@ The tool analyzes HTTP response headers, HTML content, cookies, application path
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/icewarp-fingerprint-detector.git
-cd icewarp-fingerprint-detector
+git clone https://github.com/navidnategh/icewarp-detector.git
+cd icewarp-detector
 ```
 
 Install the dependencies:
